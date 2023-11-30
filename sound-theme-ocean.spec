@@ -15,6 +15,7 @@ URL:		http://kde.org/
 License:	GPL
 Group:		System/Libraries
 BuildRequires:	cmake(ECM)
+BuildRequires:	cmake(Qt6)
 BuildArch:	noarch
 
 %description
