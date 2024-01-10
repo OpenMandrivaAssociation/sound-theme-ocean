@@ -3,7 +3,7 @@
 #define git 20231103
 
 Name:		sound-theme-ocean
-Version:	5.91.0
+Version:	5.92.0
 Release:	%{?git:0.%{git}.}1
 %if 0%{?git:1}
 Source0:	https://invent.kde.org/plasma/ocean-sound-theme/-/archive/master/ocean-sound-theme-master.tar.bz2#/ocean-sound-theme-%{git}.tar.bz2
