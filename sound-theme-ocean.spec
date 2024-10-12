@@ -5,7 +5,7 @@
 %define gitbranchd %(echo %{gitbranch} |sed -e "s,/,-,g")
 
 Name:		sound-theme-ocean
-Version:	6.1.5
+Version:	6.2.0
 Release:	%{?git:0.%{git}.}1
 %if 0%{?git:1}
 Source0:	https://invent.kde.org/plasma/ocean-sound-theme/-/archive/%{gitbranch}/ocean-sound-theme-%{gitbranchd}.tar.bz2#/ocean-sound-theme-%{git}.tar.bz2
