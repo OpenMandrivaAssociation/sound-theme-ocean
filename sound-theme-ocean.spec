@@ -13,7 +13,7 @@ Source0:	https://invent.kde.org/plasma/ocean-sound-theme/-/archive/%{gitbranch}/
 Source0:	http://download.kde.org/%{stable}/plasma/%{plasmaver}/ocean-sound-theme-%{version}.tar.xz
 %endif
 Summary:	The Ocean sound theme
-URL:		http://kde.org/
+URL:		https://kde.org/
 License:	GPL
 Group:		System/Libraries
 BuildRequires:	cmake(ECM)
